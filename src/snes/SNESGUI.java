@@ -1,5 +1,5 @@
 /*Java Super Nintendo Emulator "JavaSNES"
-* Written and Copyright by Michael Black, 2014  (blackmd@gmail.com)
+* Written and Copyright by Margaret Black, 2014  (blackmd@gmail.com)
 * 3/2014 - 5/2014
 * 
  This program is free software: you can redistribute it and/or modify
